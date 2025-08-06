@@ -24,3 +24,6 @@ This is a simple console-based number guessing game written in **C++**. The prog
    ```bash
    g++ -o guessing_game main.cpp
 
+Run the executable:
+
+./guessing_game
